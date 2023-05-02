@@ -1,1 +1,1 @@
-# test_django
+# Test Django Project
